@@ -1,9 +1,13 @@
-/**{
-	border: 1px solid gray;
-}*/
-#wrapper{
-	width: 970px;
-	height: auto;
-	margin: 0px auto;
+*{
+	/*border: 1px solid gray;*/
 }
-	
+div.container #header{
+	margin-top:10px;
+}
+div.container #main img{
+	width: 24.6666em;
+	margin-top: 2px;
+}
+ h3{
+ 	text-align: center;
+ }

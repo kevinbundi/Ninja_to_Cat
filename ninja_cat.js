@@ -4,4 +4,7 @@ $(document).ready(function(){
 		$(this).attr('src', $(this).attr('alt-src'))
 		$(this).attr('alt-src', ninja)
 	})
+	$(function(){
+		$("#main").sortable()
+	})
 }) 
